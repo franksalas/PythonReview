@@ -1,7 +1,7 @@
 # PythonReview
 
 
-## Review of Python language from several sources.
+## Review of the Python language from several sources.
 * Complete Python Bootcamp by Jose Portilla.
   +  https://www.udemy.com/complete-python-bootcamp/learn/#/
 * Python Beyond The Basics Object Oriented Programming From Classes To Inheritance. by David Blaikie.
